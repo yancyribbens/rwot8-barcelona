@@ -22,7 +22,7 @@ Earners
 When a user earns a credential, that user may
 advertise or reveal data about his/her achievement. However, the user
 may not wish details of his/her Personally Identifiable Information
-(PII) to be surfaced and associated with that credential.
+(PII) to be surfaced and associated with a credential.
 
 Issuer
 ======
