@@ -29,7 +29,7 @@ Issuer
 
 An issuer is an entity that issues a credential to an earner. Typically
 this issuer knows the user by their first name, last name, SSN or other
-forms of PII which the issuer uses as identification. By using a DID in
+forms of PII which the issuer uses as identifiers. By using a DID in
 lieu of other PII, the issuer could be limited to only the PII that is
 relevant to issue the credential and nothing more. For example, the
 issuer may require crypographic proof that has been signed by a government to show
