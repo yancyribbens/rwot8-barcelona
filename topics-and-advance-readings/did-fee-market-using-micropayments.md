@@ -1,4 +1,4 @@
-# Decentralized Identity Fee Market
+# Re-inventing Incentive Structures Using DID and Microtransactions
 ---
 by Yancy Ribbens
 
