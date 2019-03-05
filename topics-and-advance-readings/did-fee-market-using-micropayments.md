@@ -53,12 +53,10 @@ are irrelevant to the achievement.
 Credential
 ==========
 
-An earner is the recipient and the holder of the credential issued by
-the issuer. Example credentials are Blockcerts and OBI. These
-credentials types have data attributes for both issuer and earner
+Example credentials such as Blockcerts and OBI have data attributes for both issuer and earner
 (credential recipient). By augmenting a credential to use an issuer DID
 and a recipient DID, both issuer and earner can have greater control
-over the data that is revealed and associated with the verifiable
+over the data that is revealed and associated with the 
 credential.
 
 Issuing Authority
