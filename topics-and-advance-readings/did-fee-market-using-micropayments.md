@@ -55,8 +55,7 @@ The issuing authority is often a third party entity contracted out by
 the issuer and registered with by the earner. This authority may
 possesses details of PII associated with the issuer as well as the
 earner. This allows the issuing authority to be an intermediary for PII
-data. However, if a DID was used, the issuing authority would have only
-the details revealed by the the earner and issuer DID.
+data.
 
 DID Semantics
 =============
