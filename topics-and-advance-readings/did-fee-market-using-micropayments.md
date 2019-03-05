@@ -81,7 +81,7 @@ paywalls to be constructed, which reveal information in exchange for
 small amounts of currency. Every request for data pertaining to a DID
 could be serviced only if the requester meets the payment requested
 by the individual. Instead of receiving a microtransaction, the DID owner may
-chose to make their DID available to entities free. Furthermore, an algorithm
+chose to make their DID available to external entities for free. Furthermore, an algorithm
 could be constructed to parse arbitrary blockchains in search of a DID with
 matching criteria. This could be done by identifying which addresses are
 associated with DIDs and either following the public information or negotiate payment.
