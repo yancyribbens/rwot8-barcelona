@@ -67,21 +67,21 @@ currency. The owner of the identifier possesses a public key which can be
 known to anyone, and a private key known only by the identifier owner (or
 trusted interface). This public key can
 reference one or more outputs which point to an external resource under
-control of an individual. Example outputs could be, a trusted website, the IP address of their own personal
+the control of an individual. Example outputs could be, a trusted website, the IP address of their own personal
 computer or an IPFS address. If the identifier owner loses control of the
 end-point their DID points to, the user's private key can be used to
 revoke the DID.  Furthermore, if the identity owner loses the private key, decentralized key
-recovery systmes such as shamir secret sharing are possible.
+recovery systems using Shamir secret sharing are possible.
 
 Developing a fee market
 =======================
 
-Microtransactions, for example the lightning network, allow
+Microtransactions, for example, the lightning network, allow
 paywalls to be constructed, which reveal information in exchange for
 small amounts of currency. Every request for data pertaining to a DID
 could be serviced only if the requester meets the payment requested
 by the individual. Instead of receiving a microtransaction, the DID owner may
-choose to make their DID available to external entities for free. Furthermore, an algorithm
+choose to make a DID available to external entities for free. Furthermore, an algorithm
 could be constructed to parse arbitrary blockchains in search of a DID with
 matching criteria. This could be done by identifying which addresses are
 associated with DIDs and either follow the public information or negotiate payment.
