@@ -32,7 +32,7 @@ this issuer knows the person by their first name, last name or other
 forms of PII which the issuer uses as identifiers. By using a DID in
 lieu of other PII, the issuer could be limited to only the PII that is
 relevant to issue the credential and nothing more. For example, the
-issuer may require crypographic proof that has been signed by a government to show
+issuer may require cryptographic proof that has been signed by a government to show
 citizenship. When the issuer issues a credential because of a passing
 exam for example, they only need to associate the passing marks with a unique DID
 that has citizenship. Other attributes of the earner such as race, age,
@@ -53,7 +53,7 @@ Issuing Authority
 
 The issuing authority is often a third party entity contracted out by
 the issuer and registered with by the earner. This authority may
-possesses details of PII associated with the issuer as well as the
+possess details of PII associated with the issuer as well as the
 earner. This allows the issuing authority to be an intermediary for PII
 data.
 
